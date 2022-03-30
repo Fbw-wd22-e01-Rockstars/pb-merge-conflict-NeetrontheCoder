@@ -1,6 +1,6 @@
  ![banner](./img/door.jpg)
 
- # THIS MOTHERFUCKER BETTER WORK
+ # Very nice positive words.
 
 a) List
 b) of
