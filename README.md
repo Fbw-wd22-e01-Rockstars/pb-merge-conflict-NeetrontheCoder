@@ -104,4 +104,8 @@ When you receive notification from your team member that the `dev` branch is now
 2. Merge the changes from the `dev` branch.
 3. Push the updated `main` branch to your GitHub repository
 4. Tell your team member that the changes have gone live.
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> bug-fix
+>>>>>>> 146e3c20482780bee0e3b50c5fdfae12d58157c6
